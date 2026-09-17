@@ -4,7 +4,7 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
  
-const name = 'Joefer Miguel Nuqui Tulabut';
+const name = 'Joefer Miguel  Tulabut';
 export const siteTitle = 'Next.js Sample Website';
  
 export default function Layout({ children, home }) {
